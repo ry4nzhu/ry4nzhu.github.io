@@ -8,7 +8,47 @@
   </url>
   
   <url>
+    <loc>https://ry4nzhu.github.io/tag/architecture/</loc>
+    <lastmod>2020-09-14T12:45:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ry4nzhu.github.io/authors/</loc>
+    <lastmod>2020-09-14T12:45:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ry4nzhu.github.io/author/kangjia-cai/</loc>
+    <lastmod>2020-09-14T12:45:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ry4nzhu.github.io/author/meitang-li/</loc>
+    <lastmod>2020-09-14T12:45:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ry4nzhu.github.io/tag/out-of-order/</loc>
+    <lastmod>2020-09-14T12:45:23-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ry4nzhu.github.io/project/</loc>
+    <lastmod>2020-09-14T12:45:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ry4nzhu.github.io/tag/r10k/</loc>
+    <lastmod>2020-09-14T12:45:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ry4nzhu.github.io/tag/risc-v/</loc>
+    <lastmod>2020-09-14T12:45:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ry4nzhu.github.io/author/ruiyang-zhu/</loc>
     <lastmod>2020-09-14T12:45:23-04:00</lastmod>
   </url>
   
@@ -18,8 +58,23 @@
   </url>
   
   <url>
-    <loc>https://ry4nzhu.github.io/authors/</loc>
-    <lastmod>2020-09-13T22:05:53-04:00</lastmod>
+    <loc>https://ry4nzhu.github.io/tag/systemverilog/</loc>
+    <lastmod>2020-09-14T12:45:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ry4nzhu.github.io/tags/</loc>
+    <lastmod>2020-09-14T12:45:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ry4nzhu.github.io/author/tianrong-zhang/</loc>
+    <lastmod>2020-09-14T12:45:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ry4nzhu.github.io/author/yuan-shen/</loc>
+    <lastmod>2020-09-14T12:45:23-04:00</lastmod>
   </url>
   
   <url>
@@ -48,10 +103,6 @@
   <url>
     <loc>https://ry4nzhu.github.io/author/ruiyang-zhu/</loc>
     <lastmod>2020-09-13T22:05:53-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ry4nzhu.github.io/tags/</loc>
   </url>
   
 </urlset>

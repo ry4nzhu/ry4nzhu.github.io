@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuan Shen | Ruiyang Zhu&#39;s Home Page</title>
+    <link>https://ry4nzhu.github.io/author/yuan-shen/</link>
+      <atom:link href="https://ry4nzhu.github.io/author/yuan-shen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuan Shen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2020</copyright><lastBuildDate>Mon, 14 Sep 2020 12:28:29 -0400</lastBuildDate>
+    <image>
+      <url>https://ry4nzhu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yuan Shen</title>
+      <link>https://ry4nzhu.github.io/author/yuan-shen/</link>
+    </image>
+    
+    <item>
+      <title>A RISC-V Based Superscalar Out-of-Order Processor Design with Branch Stack</title>
+      <link>https://ry4nzhu.github.io/project/proc_branch_stack/</link>
+      <pubDate>Mon, 14 Sep 2020 12:28:29 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/project/proc_branch_stack/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
