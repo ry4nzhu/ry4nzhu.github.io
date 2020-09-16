@@ -12,5 +12,14 @@
       <link>https://ry4nzhu.github.io/post/</link>
     </image>
     
+    <item>
+      <title>About 5G NR in General</title>
+      <link>https://ry4nzhu.github.io/post/5g_radio_resource_control/</link>
+      <pubDate>Mon, 14 Sep 2020 16:38:57 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/post/5g_radio_resource_control/</guid>
+      <description>&lt;p&gt;5G has already been deployed in so-called Non-Standalone Deployment (NSA). Vendors such as Verizon, AT&amp;amp;T and T-Mobile adapt the novel milimeter Wave (mmWave) technology to provide extremely high bandwidth and low latency through the celluar network.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
