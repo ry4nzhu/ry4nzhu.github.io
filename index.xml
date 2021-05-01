@@ -5,12 +5,24 @@
     <link>https://ry4nzhu.github.io/</link>
       <atom:link href="https://ry4nzhu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ruiyang Zhu&#39;s Home Page</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2021</copyright><lastBuildDate>Fri, 30 Apr 2021 21:56:53 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2021</copyright><lastBuildDate>Fri, 30 Apr 2021 22:42:50 -0400</lastBuildDate>
     <image>
       <url>https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_512x512_fill_lanczos_center_2.png</url>
       <title>Ruiyang Zhu&#39;s Home Page</title>
       <link>https://ry4nzhu.github.io/</link>
     </image>
+    
+    <item>
+      <title>Bugbasev2</title>
+      <link>https://ry4nzhu.github.io/project/bugbasev2/</link>
+      <pubDate>Fri, 30 Apr 2021 22:42:50 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/project/bugbasev2/</guid>
+      <description>&lt;p&gt;Bugbasev2 is a collection of reproduceable bugs in popular software stsytems (e.g. TensorFlow, MySQL, etc). Those reproducible bugs help for evaluating bug detection and root cause diagnosis and is an extension of data for the 
+&lt;a href=&#34;https://github.com/dslab-epfl/bugbase&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bugbase&lt;/a&gt; project. All the bugs are self-contained inside a docker container and ready to be invoked independently. Currently, the total number of reproducible bugs exceeds 100.&lt;/p&gt;
+&lt;p&gt;Related paper: 
+&lt;a href=&#34;https://dslab.epfl.ch/pubs/gist.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures (SOSP&#39;15)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Variegated Look at 5G in the Wild: Performance, Power, and QoE Implications</title>

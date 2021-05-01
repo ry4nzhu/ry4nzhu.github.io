@@ -5,28 +5,12 @@
     <link>https://ry4nzhu.github.io/author/ruiyang-zhu/</link>
       <atom:link href="https://ry4nzhu.github.io/author/ruiyang-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Ruiyang Zhu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2021</copyright><lastBuildDate>Fri, 30 Apr 2021 21:56:53 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2021</copyright>
     <image>
       <url>https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_512x512_fill_lanczos_center_2.png</url>
       <title>Ruiyang Zhu</title>
       <link>https://ry4nzhu.github.io/author/ruiyang-zhu/</link>
     </image>
-    
-    <item>
-      <title>A Variegated Look at 5G in the Wild: Performance, Power, and QoE Implications</title>
-      <link>https://ry4nzhu.github.io/publication/a_variegated_look_at_5g_in_the_wild/</link>
-      <pubDate>Fri, 30 Apr 2021 21:56:53 -0400</pubDate>
-      <guid>https://ry4nzhu.github.io/publication/a_variegated_look_at_5g_in_the_wild/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A RISC-V Based Superscalar Out-of-Order Processor Design with Branch Stack</title>
-      <link>https://ry4nzhu.github.io/project/proc_branch_stack/</link>
-      <pubDate>Mon, 14 Sep 2020 12:28:29 -0400</pubDate>
-      <guid>https://ry4nzhu.github.io/project/proc_branch_stack/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
