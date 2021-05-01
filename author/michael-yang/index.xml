@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Yang | Ruiyang Zhu&#39;s Home Page</title>
+    <link>https://ry4nzhu.github.io/author/michael-yang/</link>
+      <atom:link href="https://ry4nzhu.github.io/author/michael-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2021</copyright><lastBuildDate>Fri, 30 Apr 2021 21:56:53 -0400</lastBuildDate>
+    <image>
+      <url>https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_512x512_fill_lanczos_center_2.png</url>
+      <title>Michael Yang</title>
+      <link>https://ry4nzhu.github.io/author/michael-yang/</link>
+    </image>
+    
+    <item>
+      <title>A Variegated Look at 5G in the Wild: Performance, Power, and QoE Implications</title>
+      <link>https://ry4nzhu.github.io/publication/a_variegated_look_at_5g_in_the_wild/</link>
+      <pubDate>Fri, 30 Apr 2021 21:56:53 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/publication/a_variegated_look_at_5g_in_the_wild/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

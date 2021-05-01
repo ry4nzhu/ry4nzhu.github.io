@@ -5,12 +5,20 @@
     <link>https://ry4nzhu.github.io/</link>
       <atom:link href="https://ry4nzhu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ruiyang Zhu&#39;s Home Page</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2021</copyright><lastBuildDate>Mon, 14 Sep 2020 16:38:57 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2021</copyright><lastBuildDate>Fri, 30 Apr 2021 21:56:53 -0400</lastBuildDate>
     <image>
       <url>https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_512x512_fill_lanczos_center_2.png</url>
       <title>Ruiyang Zhu&#39;s Home Page</title>
       <link>https://ry4nzhu.github.io/</link>
     </image>
+    
+    <item>
+      <title>A Variegated Look at 5G in the Wild: Performance, Power, and QoE Implications</title>
+      <link>https://ry4nzhu.github.io/publication/a_variegated_look_at_5g_in_the_wild/</link>
+      <pubDate>Fri, 30 Apr 2021 21:56:53 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/publication/a_variegated_look_at_5g_in_the_wild/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>About 5G NR in General</title>
