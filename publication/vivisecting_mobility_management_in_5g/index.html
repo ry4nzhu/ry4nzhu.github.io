@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Motivated by rapidly expanding deployment of 5G services, we carry out an in-depth study to understand how 5G impacts application performance and energy efficiency. We examine the effects of 5G deployment strategies such as Non-Standalone (NSA) 5G and Standalone (SA), radio bands and protocol specific properties (e.g., RRC state transitions and power profiles) on performance and power usage experienced by user equipment (smart phones) and applications running on them. Unlike previous studies, we focus on both 5G mmWave -- which provides significantly higher throughput than 4G LTE -- and low-band radio (with more comparable throughput with 4G LTE). Our work answers the key questions of how to best utilize 5G for common applications such as video streaming and web browsing, and aid intelligent throughput-power trade-offs.">
+  <meta name="description" content="With 5G&#39;s support for diverse radio bands and different deployment modes, e.g. standalone (SA) vs. non-standalone (NSA), mobility management - especially the handover process - becomes far more complex. Measurement studies have shown that frequent handovers cause wild fluctuations in 5G throughput, and worst, service outages. Through a cross-country (6,200km&#43;) driving trip, we conduct in-depth measurements to study the current 5G mobility management practices adopted by three major US carriers. Using this rich dataset, we carry out a systematic analysis to uncover the handover mechanisms employed by 5G carriers, and compare them along several dimensions such as (4G vs. 5G) radio technologies, radio (low-, mid- &amp; high-)bands, and deployment (SA vs NSA) modes. We further quantify the impact of mobility on application performance, power consumption, and signaling overheads. We identify key challenges facing today’s NSA 5G deployments which result in unnecessary handovers and reduced coverage. Finally, we design a holistic handover prediction system Prognos and demonstrate its ability to improve QoE for two 5G applications 16K panoramic VoD and real-time volumetric video streaming.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://ry4nzhu.github.io/publication/a_variegated_look_at_5g_in_the_wild/">
+  <link rel="alternate" hreflang="en-us" href="https://ry4nzhu.github.io/publication/vivisecting_mobility_management_in_5g/">
 
   
 
@@ -255,7 +255,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://ry4nzhu.github.io/publication/a_variegated_look_at_5g_in_the_wild/">
+  <link rel="canonical" href="https://ry4nzhu.github.io/publication/vivisecting_mobility_management_in_5g/">
 
   
   
@@ -271,15 +271,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Ruiyang Zhu&#39;s Home Page">
-  <meta property="og:url" content="https://ry4nzhu.github.io/publication/a_variegated_look_at_5g_in_the_wild/">
-  <meta property="og:title" content="A Variegated Look at 5G in the Wild: Performance, Power, and QoE Implications | Ruiyang Zhu&#39;s Home Page">
-  <meta property="og:description" content="Motivated by rapidly expanding deployment of 5G services, we carry out an in-depth study to understand how 5G impacts application performance and energy efficiency. We examine the effects of 5G deployment strategies such as Non-Standalone (NSA) 5G and Standalone (SA), radio bands and protocol specific properties (e.g., RRC state transitions and power profiles) on performance and power usage experienced by user equipment (smart phones) and applications running on them. Unlike previous studies, we focus on both 5G mmWave -- which provides significantly higher throughput than 4G LTE -- and low-band radio (with more comparable throughput with 4G LTE). Our work answers the key questions of how to best utilize 5G for common applications such as video streaming and web browsing, and aid intelligent throughput-power trade-offs."><meta property="og:image" content="https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="https://ry4nzhu.github.io/publication/vivisecting_mobility_management_in_5g/">
+  <meta property="og:title" content=" Vivisecting Mobility Management in 5G Cellular Networks | Ruiyang Zhu&#39;s Home Page">
+  <meta property="og:description" content="With 5G&#39;s support for diverse radio bands and different deployment modes, e.g. standalone (SA) vs. non-standalone (NSA), mobility management - especially the handover process - becomes far more complex. Measurement studies have shown that frequent handovers cause wild fluctuations in 5G throughput, and worst, service outages. Through a cross-country (6,200km&#43;) driving trip, we conduct in-depth measurements to study the current 5G mobility management practices adopted by three major US carriers. Using this rich dataset, we carry out a systematic analysis to uncover the handover mechanisms employed by 5G carriers, and compare them along several dimensions such as (4G vs. 5G) radio technologies, radio (low-, mid- &amp; high-)bands, and deployment (SA vs NSA) modes. We further quantify the impact of mobility on application performance, power consumption, and signaling overheads. We identify key challenges facing today’s NSA 5G deployments which result in unnecessary handovers and reduced coverage. Finally, we design a holistic handover prediction system Prognos and demonstrate its ability to improve QoE for two 5G applications 16K panoramic VoD and real-time volumetric video streaming."><meta property="og:image" content="https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2021-04-30T21:56:53-04:00">
+      <meta property="article:published_time" content="2022-05-29T21:56:53-04:00">
     
-    <meta property="article:modified_time" content="2021-04-30T22:34:19-04:00">
+    <meta property="article:modified_time" content="2022-05-29T21:56:53-04:00">
   
 
   
@@ -301,16 +301,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://ry4nzhu.github.io/publication/a_variegated_look_at_5g_in_the_wild/"
+    "@id": "https://ry4nzhu.github.io/publication/vivisecting_mobility_management_in_5g/"
   },
-  "headline": "A Variegated Look at 5G in the Wild: Performance, Power, and QoE Implications",
+  "headline": " Vivisecting Mobility Management in 5G Cellular Networks",
   
-  "datePublished": "2021-04-30T21:56:53-04:00",
-  "dateModified": "2021-04-30T22:34:19-04:00",
+  "datePublished": "2022-05-29T21:56:53-04:00",
+  "dateModified": "2022-05-29T21:56:53-04:00",
   
   "author": {
     "@type": "Person",
-    "name": "Arvind Narayanan*"
+    "name": "Ahmad Hassan"
   },
   
   "publisher": {
@@ -321,7 +321,7 @@
       "url": "https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Motivated by rapidly expanding deployment of 5G services, we carry out an in-depth study to understand how 5G impacts application performance and energy efficiency. We examine the effects of 5G deployment strategies such as Non-Standalone (NSA) 5G and Standalone (SA), radio bands and protocol specific properties (e.g., RRC state transitions and power profiles) on performance and power usage experienced by user equipment (smart phones) and applications running on them. Unlike previous studies, we focus on both 5G mmWave -- which provides significantly higher throughput than 4G LTE -- and low-band radio (with more comparable throughput with 4G LTE). Our work answers the key questions of how to best utilize 5G for common applications such as video streaming and web browsing, and aid intelligent throughput-power trade-offs."
+  "description": "With 5G's support for diverse radio bands and different deployment modes, e.g. standalone (SA) vs. non-standalone (NSA), mobility management - especially the handover process - becomes far more complex. Measurement studies have shown that frequent handovers cause wild fluctuations in 5G throughput, and worst, service outages. Through a cross-country (6,200km+) driving trip, we conduct in-depth measurements to study the current 5G mobility management practices adopted by three major US carriers. Using this rich dataset, we carry out a systematic analysis to uncover the handover mechanisms employed by 5G carriers, and compare them along several dimensions such as (4G vs. 5G) radio technologies, radio (low-, mid- \u0026 high-)bands, and deployment (SA vs NSA) modes. We further quantify the impact of mobility on application performance, power consumption, and signaling overheads. We identify key challenges facing today’s NSA 5G deployments which result in unnecessary handovers and reduced coverage. Finally, we design a holistic handover prediction system Prognos and demonstrate its ability to improve QoE for two 5G applications 16K panoramic VoD and real-time volumetric video streaming."
 }
 </script>
 
@@ -339,7 +339,7 @@
 
 
 
-  <title>A Variegated Look at 5G in the Wild: Performance, Power, and QoE Implications | Ruiyang Zhu&#39;s Home Page</title>
+  <title> Vivisecting Mobility Management in 5G Cellular Networks | Ruiyang Zhu&#39;s Home Page</title>
 
 </head>
 
@@ -709,7 +709,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>A Variegated Look at 5G in the Wild: Performance, Power, and QoE Implications</h1>
+  <h1> Vivisecting Mobility Management in 5G Cellular Networks</h1>
 
   
 
@@ -727,7 +727,7 @@
     
 
   
-  <span >Arvind Narayanan*</span>, <span >Xumiao Zhang*</span>, <span >Ruiyang Zhu</span>, <span >Ahmad Hassan</span>, <span >Shuowei Jin</span>, <span >Xiao Zhu</span>, <span >Denis Rybkin</span>, <span >Dustin Zhang</span>, <span >Michael Yang</span>, <span >Z. Morley Mao</span>, <span >Feng Qian</span>, <span >Zhi-Li Zhang</span>
+  <span >Ahmad Hassan</span>, <span >Arvind Narayanan</span>, <span >Anlan Zhang</span>, <span >Wei Ye</span>, <span >Ruiyang Zhu</span>, <span >Shuowei Jin</span>, <span >Jason Carpenter</span>, <span >Z. Morley Mao</span>, <span >Zhi-Li Zhang</span>, <span >Feng Qian</span>
   </div>
   
   
@@ -738,7 +738,7 @@
     
       
     
-    April 2021
+    May 2022
   </span>
   
 
@@ -764,69 +764,10 @@
 
 
 
-  
 
 
 
 
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/a_variegated_look_at_5g_in_the_wild/a_variegated_look_at_5g_in_the_wild.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/SIGCOMM21-5G/artifact" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="https://www.youtube.com/watch?v=vIi3P2jYrPA" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1145/3452296.3472923" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-</div>
 
 
   
@@ -838,7 +779,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Motivated by rapidly expanding deployment of 5G services, we carry out an in-depth study to understand how 5G impacts application performance and energy efficiency. We examine the effects of 5G deployment strategies such as Non-Standalone (NSA) 5G and Standalone (SA), radio bands and protocol specific properties (e.g., RRC state transitions and power profiles) on performance and power usage experienced by user equipment (smart phones) and applications running on them. Unlike previous studies, we focus on both 5G mmWave &ndash; which provides significantly higher throughput than 4G LTE &ndash; and low-band radio (with more comparable throughput with 4G LTE). Our work answers the key questions of how to best utilize 5G for common applications such as video streaming and web browsing, and aid intelligent throughput-power trade-offs.</p>
+    <p class="pub-abstract">With 5G&rsquo;s support for diverse radio bands and different deployment modes, e.g. standalone (SA) vs. non-standalone (NSA), mobility management - especially the handover process - becomes far more complex. Measurement studies have shown that frequent handovers cause wild fluctuations in 5G throughput, and worst, service outages. Through a cross-country (6,200km+) driving trip, we conduct in-depth measurements to study the current 5G mobility management practices adopted by three major US carriers. Using this rich dataset, we carry out a systematic analysis to uncover the handover mechanisms employed by 5G carriers, and compare them along several dimensions such as (4G vs. 5G) radio technologies, radio (low-, mid- &amp; high-)bands, and deployment (SA vs NSA) modes. We further quantify the impact of mobility on application performance, power consumption, and signaling overheads. We identify key challenges facing today’s NSA 5G deployments which result in unnecessary handovers and reduced coverage. Finally, we design a holistic handover prediction system Prognos and demonstrate its ability to improve QoE for two 5G applications 16K panoramic VoD and real-time volumetric video streaming.</p>
     
 
     
@@ -868,7 +809,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">SIGCOMM 2021</div>
+          <div class="col-12 col-md-9">SIGCOMM 2022</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -891,6 +832,8 @@
   
   <a class="badge badge-light" href="/tag/5g/">5G</a>
   
+  <a class="badge badge-light" href="/tag/mobility-management/">mobility management</a>
+  
 </div>
 
 
@@ -906,7 +849,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://ry4nzhu.github.io/publication/a_variegated_look_at_5g_in_the_wild/&amp;text=A%20Variegated%20Look%20at%205G%20in%20the%20Wild:%20Performance,%20Power,%20and%20QoE%20Implications" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://ry4nzhu.github.io/publication/vivisecting_mobility_management_in_5g/&amp;text=%20Vivisecting%20Mobility%20Management%20in%205G%20Cellular%20Networks" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -919,7 +862,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://ry4nzhu.github.io/publication/a_variegated_look_at_5g_in_the_wild/&amp;t=A%20Variegated%20Look%20at%205G%20in%20the%20Wild:%20Performance,%20Power,%20and%20QoE%20Implications" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://ry4nzhu.github.io/publication/vivisecting_mobility_management_in_5g/&amp;t=%20Vivisecting%20Mobility%20Management%20in%205G%20Cellular%20Networks" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -932,7 +875,7 @@
       
       
       <li>
-        <a href="mailto:?subject=A%20Variegated%20Look%20at%205G%20in%20the%20Wild:%20Performance,%20Power,%20and%20QoE%20Implications&amp;body=https://ry4nzhu.github.io/publication/a_variegated_look_at_5g_in_the_wild/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=%20Vivisecting%20Mobility%20Management%20in%205G%20Cellular%20Networks&amp;body=https://ry4nzhu.github.io/publication/vivisecting_mobility_management_in_5g/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -945,7 +888,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://ry4nzhu.github.io/publication/a_variegated_look_at_5g_in_the_wild/&amp;title=A%20Variegated%20Look%20at%205G%20in%20the%20Wild:%20Performance,%20Power,%20and%20QoE%20Implications" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://ry4nzhu.github.io/publication/vivisecting_mobility_management_in_5g/&amp;title=%20Vivisecting%20Mobility%20Management%20in%205G%20Cellular%20Networks" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -958,7 +901,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=A%20Variegated%20Look%20at%205G%20in%20the%20Wild:%20Performance,%20Power,%20and%20QoE%20Implications%20https://ry4nzhu.github.io/publication/a_variegated_look_at_5g_in_the_wild/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=%20Vivisecting%20Mobility%20Management%20in%205G%20Cellular%20Networks%20https://ry4nzhu.github.io/publication/vivisecting_mobility_management_in_5g/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -971,7 +914,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://ry4nzhu.github.io/publication/a_variegated_look_at_5g_in_the_wild/&amp;title=A%20Variegated%20Look%20at%205G%20in%20the%20Wild:%20Performance,%20Power,%20and%20QoE%20Implications" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://ry4nzhu.github.io/publication/vivisecting_mobility_management_in_5g/&amp;title=%20Vivisecting%20Mobility%20Management%20in%205G%20Cellular%20Networks" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -988,28 +931,6 @@
 
 
 
-
-
-  
-    
-    
-
-
-
-
-
-  
-
-
-  
-    
-    
-
-
-
-
-
-  
 
 
   
@@ -1141,7 +1062,7 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/publication/vivisecting_mobility_management_in_5g/"> Vivisecting Mobility Management in 5G Cellular Networks</a></li>
+      <li><a href="/publication/a_variegated_look_at_5g_in_the_wild/">A Variegated Look at 5G in the Wild: Performance, Power, and QoE Implications</a></li>
       
       <li><a href="/post/5g_radio_resource_control/">About 5G NR in General</a></li>
       

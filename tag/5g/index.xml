@@ -5,12 +5,20 @@
     <link>https://ry4nzhu.github.io/tag/5g/</link>
       <atom:link href="https://ry4nzhu.github.io/tag/5g/index.xml" rel="self" type="application/rss+xml" />
     <description>5G</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2022</copyright><lastBuildDate>Fri, 30 Apr 2021 21:56:53 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2022</copyright><lastBuildDate>Sun, 29 May 2022 21:56:53 -0400</lastBuildDate>
     <image>
       <url>https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_512x512_fill_lanczos_center_2.png</url>
       <title>5G</title>
       <link>https://ry4nzhu.github.io/tag/5g/</link>
     </image>
+    
+    <item>
+      <title> Vivisecting Mobility Management in 5G Cellular Networks</title>
+      <link>https://ry4nzhu.github.io/publication/vivisecting_mobility_management_in_5g/</link>
+      <pubDate>Sun, 29 May 2022 21:56:53 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/publication/vivisecting_mobility_management_in_5g/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Variegated Look at 5G in the Wild: Performance, Power, and QoE Implications</title>
