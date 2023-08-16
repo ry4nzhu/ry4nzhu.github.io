@@ -5,12 +5,20 @@
     <link>https://ry4nzhu.github.io/author/z.-morley-mao/</link>
       <atom:link href="https://ry4nzhu.github.io/author/z.-morley-mao/index.xml" rel="self" type="application/rss+xml" />
     <description>Z. Morley Mao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2023</copyright><lastBuildDate>Sun, 29 May 2022 21:56:53 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2023</copyright><lastBuildDate>Wed, 14 Jun 2023 21:56:53 -0400</lastBuildDate>
     <image>
       <url>https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_512x512_fill_lanczos_center_2.png</url>
       <title>Z. Morley Mao</title>
       <link>https://ry4nzhu.github.io/author/z.-morley-mao/</link>
     </image>
+    
+    <item>
+      <title>Robust Real-time Multi-vehicle Collaboration on Asynchronous Sensors</title>
+      <link>https://ry4nzhu.github.io/publication/robust_real_time/</link>
+      <pubDate>Wed, 14 Jun 2023 21:56:53 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/publication/robust_real_time/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title> Vivisecting Mobility Management in 5G Cellular Networks</title>
