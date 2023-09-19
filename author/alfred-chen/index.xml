@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cooperative Perception | Ruiyang Zhu&#39;s Home Page</title>
-    <link>https://ry4nzhu.github.io/tag/cooperative-perception/</link>
-      <atom:link href="https://ry4nzhu.github.io/tag/cooperative-perception/index.xml" rel="self" type="application/rss+xml" />
-    <description>Cooperative Perception</description>
+    <title>Alfred Chen | Ruiyang Zhu&#39;s Home Page</title>
+    <link>https://ry4nzhu.github.io/author/alfred-chen/</link>
+      <atom:link href="https://ry4nzhu.github.io/author/alfred-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alfred Chen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2023</copyright><lastBuildDate>Tue, 19 Sep 2023 15:24:53 -0400</lastBuildDate>
     <image>
       <url>https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_512x512_fill_lanczos_center_2.png</url>
-      <title>Cooperative Perception</title>
-      <link>https://ry4nzhu.github.io/tag/cooperative-perception/</link>
+      <title>Alfred Chen</title>
+      <link>https://ry4nzhu.github.io/author/alfred-chen/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://ry4nzhu.github.io/publication/on_data_fabircationin_collaborative_vehicular_perception_attacks_and_countermeasures/</link>
       <pubDate>Tue, 19 Sep 2023 15:24:53 -0400</pubDate>
       <guid>https://ry4nzhu.github.io/publication/on_data_fabircationin_collaborative_vehicular_perception_attacks_and_countermeasures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robust Real-time Multi-vehicle Collaboration on Asynchronous Sensors</title>
-      <link>https://ry4nzhu.github.io/publication/robust_real_time/</link>
-      <pubDate>Wed, 14 Jun 2023 21:56:53 -0400</pubDate>
-      <guid>https://ry4nzhu.github.io/publication/robust_real_time/</guid>
       <description></description>
     </item>
     
