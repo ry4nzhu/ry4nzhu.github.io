@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jiachen Sun | Ruiyang Zhu&#39;s Home Page</title>
-    <link>https://ry4nzhu.github.io/author/jiachen-sun/</link>
-      <atom:link href="https://ry4nzhu.github.io/author/jiachen-sun/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jiachen Sun</description>
+    <title>Myungjin Lee | Ruiyang Zhu&#39;s Home Page</title>
+    <link>https://ry4nzhu.github.io/author/myungjin-lee/</link>
+      <atom:link href="https://ry4nzhu.github.io/author/myungjin-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Myungjin Lee</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2024</copyright><lastBuildDate>Mon, 16 Sep 2024 11:56:53 -0400</lastBuildDate>
     <image>
       <url>https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_512x512_fill_lanczos_center_2.png</url>
-      <title>Jiachen Sun</title>
-      <link>https://ry4nzhu.github.io/author/jiachen-sun/</link>
+      <title>Myungjin Lee</title>
+      <link>https://ry4nzhu.github.io/author/myungjin-lee/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://ry4nzhu.github.io/publication/boosting_collaborative_vehicular_perception_on_the_edge_with_v2v_communication/</link>
       <pubDate>Mon, 16 Sep 2024 11:56:53 -0400</pubDate>
       <guid>https://ry4nzhu.github.io/publication/boosting_collaborative_vehicular_perception_on_the_edge_with_v2v_communication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures</title>
-      <link>https://ry4nzhu.github.io/publication/on_data_fabircationin_collaborative_vehicular_perception_attacks_and_countermeasures/</link>
-      <pubDate>Tue, 19 Sep 2023 15:24:53 -0400</pubDate>
-      <guid>https://ry4nzhu.github.io/publication/on_data_fabircationin_collaborative_vehicular_perception_attacks_and_countermeasures/</guid>
       <description></description>
     </item>
     

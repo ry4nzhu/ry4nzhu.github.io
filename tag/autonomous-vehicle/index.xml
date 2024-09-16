@@ -5,12 +5,20 @@
     <link>https://ry4nzhu.github.io/tag/autonomous-vehicle/</link>
       <atom:link href="https://ry4nzhu.github.io/tag/autonomous-vehicle/index.xml" rel="self" type="application/rss+xml" />
     <description>Autonomous Vehicle</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2024</copyright><lastBuildDate>Tue, 19 Sep 2023 15:24:53 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2024</copyright><lastBuildDate>Mon, 16 Sep 2024 11:56:53 -0400</lastBuildDate>
     <image>
       <url>https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_512x512_fill_lanczos_center_2.png</url>
       <title>Autonomous Vehicle</title>
       <link>https://ry4nzhu.github.io/tag/autonomous-vehicle/</link>
     </image>
+    
+    <item>
+      <title>Boosting Collaborative Vehicular Perception on the Edge with Vehicle-to-Vehicle Communication</title>
+      <link>https://ry4nzhu.github.io/publication/boosting_collaborative_vehicular_perception_on_the_edge_with_v2v_communication/</link>
+      <pubDate>Mon, 16 Sep 2024 11:56:53 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/publication/boosting_collaborative_vehicular_perception_on_the_edge_with_v2v_communication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures</title>
