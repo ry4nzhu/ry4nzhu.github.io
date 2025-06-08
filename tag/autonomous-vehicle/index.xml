@@ -5,12 +5,20 @@
     <link>https://ry4nzhu.github.io/tag/autonomous-vehicle/</link>
       <atom:link href="https://ry4nzhu.github.io/tag/autonomous-vehicle/index.xml" rel="self" type="application/rss+xml" />
     <description>Autonomous Vehicle</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2025</copyright><lastBuildDate>Mon, 16 Sep 2024 11:56:53 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2025</copyright><lastBuildDate>Tue, 27 May 2025 21:56:53 -0400</lastBuildDate>
     <image>
       <url>https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_512x512_fill_lanczos_center_2.png</url>
       <title>Autonomous Vehicle</title>
       <link>https://ry4nzhu.github.io/tag/autonomous-vehicle/</link>
     </image>
+    
+    <item>
+      <title>Scalable Crowd-Sourced Global HD Map Construction via Collaborative Map Perception and Sparse Graph Fusion</title>
+      <link>https://ry4nzhu.github.io/publication/scalable_crowded_hd_map_construction/</link>
+      <pubDate>Tue, 27 May 2025 21:56:53 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/publication/scalable_crowded_hd_map_construction/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Boosting Collaborative Vehicular Perception on the Edge with Vehicle-to-Vehicle Communication</title>
