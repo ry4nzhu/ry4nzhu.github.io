@@ -5,12 +5,20 @@
     <link>https://ry4nzhu.github.io/author/minkyoung-cho/</link>
       <atom:link href="https://ry4nzhu.github.io/author/minkyoung-cho/index.xml" rel="self" type="application/rss+xml" />
     <description>Minkyoung Cho</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2025</copyright><lastBuildDate>Tue, 27 May 2025 21:56:53 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2025</copyright><lastBuildDate>Thu, 29 May 2025 21:56:53 -0400</lastBuildDate>
     <image>
       <url>https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_512x512_fill_lanczos_center_2.png</url>
       <title>Minkyoung Cho</title>
       <link>https://ry4nzhu.github.io/author/minkyoung-cho/</link>
     </image>
+    
+    <item>
+      <title>SCORPION: Robust Spatial-Temporal Collaborative Perception Model on Lossy Wireless Network</title>
+      <link>https://ry4nzhu.github.io/publication/scorpion/</link>
+      <pubDate>Thu, 29 May 2025 21:56:53 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/publication/scorpion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scalable Crowd-Sourced Global HD Map Construction via Collaborative Map Perception and Sparse Graph Fusion</title>
