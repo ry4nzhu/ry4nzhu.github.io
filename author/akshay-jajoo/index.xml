@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mobile Systems | Ruiyang Zhu&#39;s Home Page</title>
-    <link>https://ry4nzhu.github.io/tag/mobile-systems/</link>
-      <atom:link href="https://ry4nzhu.github.io/tag/mobile-systems/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mobile Systems</description>
+    <title>Akshay Jajoo | Ruiyang Zhu&#39;s Home Page</title>
+    <link>https://ry4nzhu.github.io/author/akshay-jajoo/</link>
+      <atom:link href="https://ry4nzhu.github.io/author/akshay-jajoo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Akshay Jajoo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2025</copyright><lastBuildDate>Thu, 11 Sep 2025 21:56:53 -0400</lastBuildDate>
     <image>
       <url>https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_512x512_fill_lanczos_center_2.png</url>
-      <title>Mobile Systems</title>
-      <link>https://ry4nzhu.github.io/tag/mobile-systems/</link>
+      <title>Akshay Jajoo</title>
+      <link>https://ry4nzhu.github.io/author/akshay-jajoo/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://ry4nzhu.github.io/publication/opcm/</link>
       <pubDate>Thu, 11 Sep 2025 21:56:53 -0400</pubDate>
       <guid>https://ry4nzhu.github.io/publication/opcm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OASIS: Collaborative Neural-Enhanced Mobile Video Streaming</title>
-      <link>https://ry4nzhu.github.io/publication/oasis/</link>
-      <pubDate>Sun, 14 Jan 2024 21:56:53 -0400</pubDate>
-      <guid>https://ry4nzhu.github.io/publication/oasis/</guid>
       <description></description>
     </item>
     

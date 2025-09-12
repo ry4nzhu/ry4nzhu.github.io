@@ -5,12 +5,20 @@
     <link>https://ry4nzhu.github.io/author/z.-morley-mao/</link>
       <atom:link href="https://ry4nzhu.github.io/author/z.-morley-mao/index.xml" rel="self" type="application/rss+xml" />
     <description>Z. Morley Mao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2025</copyright><lastBuildDate>Thu, 29 May 2025 21:56:53 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2025</copyright><lastBuildDate>Thu, 11 Sep 2025 21:56:53 -0400</lastBuildDate>
     <image>
       <url>https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_512x512_fill_lanczos_center_2.png</url>
       <title>Z. Morley Mao</title>
       <link>https://ry4nzhu.github.io/author/z.-morley-mao/</link>
     </image>
+    
+    <item>
+      <title>OPCM: Opportunistic Performance-driven Connectivity Management for 5G/xG Networks</title>
+      <link>https://ry4nzhu.github.io/publication/opcm/</link>
+      <pubDate>Thu, 11 Sep 2025 21:56:53 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/publication/opcm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SCORPION: Robust Spatial-Temporal Collaborative Perception Model on Lossy Wireless Network</title>
