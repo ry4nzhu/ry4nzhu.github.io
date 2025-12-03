@@ -5,12 +5,100 @@
     <link>https://ry4nzhu.github.io/author/ruiyang-zhu/</link>
       <atom:link href="https://ry4nzhu.github.io/author/ruiyang-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Ruiyang Zhu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2025</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2025</copyright><lastBuildDate>Thu, 11 Sep 2025 21:56:53 -0400</lastBuildDate>
     <image>
       <url>https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_512x512_fill_lanczos_center_2.png</url>
       <title>Ruiyang Zhu</title>
       <link>https://ry4nzhu.github.io/author/ruiyang-zhu/</link>
     </image>
+    
+    <item>
+      <title>OPCM: Opportunistic Performance-driven Connectivity Management for 5G/xG Networks</title>
+      <link>https://ry4nzhu.github.io/publication/opcm/</link>
+      <pubDate>Thu, 11 Sep 2025 21:56:53 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/publication/opcm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCORPION: Robust Spatial-Temporal Collaborative Perception Model on Lossy Wireless Network</title>
+      <link>https://ry4nzhu.github.io/publication/scorpion/</link>
+      <pubDate>Thu, 29 May 2025 21:56:53 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/publication/scorpion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Crowd-Sourced Global HD Map Construction via Collaborative Map Perception and Sparse Graph Fusion</title>
+      <link>https://ry4nzhu.github.io/publication/scalable_crowded_hd_map_construction/</link>
+      <pubDate>Tue, 27 May 2025 21:56:53 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/publication/scalable_crowded_hd_map_construction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting Collaborative Vehicular Perception on the Edge with Vehicle-to-Vehicle Communication</title>
+      <link>https://ry4nzhu.github.io/publication/boosting_collaborative_vehicular_perception_on_the_edge_with_v2v_communication/</link>
+      <pubDate>Mon, 16 Sep 2024 11:56:53 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/publication/boosting_collaborative_vehicular_perception_on_the_edge_with_v2v_communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Data Fabrication in Collaborative Vehicular Perception: Attacks and Countermeasures</title>
+      <link>https://ry4nzhu.github.io/publication/on_data_fabircationin_collaborative_vehicular_perception_attacks_and_countermeasures/</link>
+      <pubDate>Fri, 19 Jan 2024 15:24:53 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/publication/on_data_fabircationin_collaborative_vehicular_perception_attacks_and_countermeasures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OASIS: Collaborative Neural-Enhanced Mobile Video Streaming</title>
+      <link>https://ry4nzhu.github.io/publication/oasis/</link>
+      <pubDate>Sun, 14 Jan 2024 21:56:53 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/publication/oasis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Case for Boosting Mobile Application QoE via Smart Band Switching in 5G/xG Networks</title>
+      <link>https://ry4nzhu.github.io/publication/the_case_for_boosting/</link>
+      <pubDate>Thu, 14 Dec 2023 21:56:53 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/publication/the_case_for_boosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Real-time Multi-vehicle Collaboration on Asynchronous Sensors</title>
+      <link>https://ry4nzhu.github.io/publication/robust_real_time/</link>
+      <pubDate>Wed, 14 Jun 2023 21:56:53 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/publication/robust_real_time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Vivisecting Mobility Management in 5G Cellular Networks</title>
+      <link>https://ry4nzhu.github.io/publication/vivisecting_mobility_management_in_5g/</link>
+      <pubDate>Sun, 29 May 2022 21:56:53 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/publication/vivisecting_mobility_management_in_5g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Variegated Look at 5G in the Wild: Performance, Power, and QoE Implications</title>
+      <link>https://ry4nzhu.github.io/publication/a_variegated_look_at_5g_in_the_wild/</link>
+      <pubDate>Fri, 30 Apr 2021 21:56:53 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/publication/a_variegated_look_at_5g_in_the_wild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A RISC-V Based Superscalar Out-of-Order Processor Design with Branch Stack</title>
+      <link>https://ry4nzhu.github.io/project/proc_branch_stack/</link>
+      <pubDate>Mon, 14 Sep 2020 12:28:29 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/project/proc_branch_stack/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
