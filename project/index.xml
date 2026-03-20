@@ -5,12 +5,24 @@
     <link>https://ry4nzhu.github.io/project/</link>
       <atom:link href="https://ry4nzhu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2026</copyright><lastBuildDate>Fri, 30 Apr 2021 22:42:50 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2026</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://ry4nzhu.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Google Xprof</title>
+      <link>https://ry4nzhu.github.io/project/google_xprof/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ry4nzhu.github.io/project/google_xprof/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://github.com/openxla/xprof&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xprof&lt;/a&gt; is an open-source performance profiling and visualization tool developed under the 
+&lt;a href=&#34;https://github.com/openxla&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenXLA&lt;/a&gt; umbrella at Google. It provides deep insights into the execution of ML workloads on accelerators (TPUs, GPUs, CPUs) for XLA-based frameworks including JAX, TensorFlow, and PyTorch/XLA.&lt;/p&gt;
+&lt;p&gt;I contributed to this project as an open-source contributor.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bugbasev2</title>
@@ -25,7 +37,7 @@
     </item>
     
     <item>
-      <title>A RISC-V Based Superscalar Out-of-Order Processor Design with Branch Stack</title>
+      <title>A RISC-V Superscalar Out-of-Order Processor Design</title>
       <link>https://ry4nzhu.github.io/project/proc_branch_stack/</link>
       <pubDate>Mon, 14 Sep 2020 12:28:29 -0400</pubDate>
       <guid>https://ry4nzhu.github.io/project/proc_branch_stack/</guid>
