@@ -5,12 +5,20 @@
     <link>https://ry4nzhu.github.io/author/xumiao-zhang/</link>
       <atom:link href="https://ry4nzhu.github.io/author/xumiao-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xumiao Zhang*</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2026</copyright><lastBuildDate>Mon, 16 Sep 2024 11:56:53 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy 2026</copyright><lastBuildDate>Mon, 10 Aug 2026 00:00:00 -0400</lastBuildDate>
     <image>
       <url>https://ry4nzhu.github.io/images/icon_hub546492b86e3e3fbc7224752fc7fbc1b_13306_512x512_fill_lanczos_center_2.png</url>
       <title>Xumiao Zhang*</title>
       <link>https://ry4nzhu.github.io/author/xumiao-zhang/</link>
     </image>
+    
+    <item>
+      <title>RAO&#43;&#43;: Realistic Real-time Multi-vehicle Collaboration on Asynchronous Sensors</title>
+      <link>https://ry4nzhu.github.io/publication/raopp/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 -0400</pubDate>
+      <guid>https://ry4nzhu.github.io/publication/raopp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Boosting Collaborative Vehicular Perception on the Edge with Vehicle-to-Vehicle Communication</title>
